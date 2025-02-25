@@ -10,7 +10,7 @@ namespace Airport_Coursework
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello Dana!")
         }
     }
 }
